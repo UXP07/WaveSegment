@@ -7,6 +7,8 @@ papers/
 data/
 # 预训练权重：大二进制，不入库
 models/pretrained/
+# 开题报告：个人文档，手动保存，不入库
+docs/开题报告/
 
 # ===== Python =====
 __pycache__/
