@@ -1,0 +1,17 @@
+# ===== 工作区策略（见 docs/深度学习团队架构设计.md）=====
+# 运行输出：脚本自动生成，不入库
+outputs/
+# 论文与参考代码库：大体量、自带版本来源，不入库
+papers/
+# 数据集：大二进制，不入库
+data/
+# 预训练权重：大二进制，不入库
+models/pretrained/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/

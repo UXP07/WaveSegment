@@ -1,0 +1,6 @@
+[project]
+name = "dl-workspace"
+version = "0.1.0"
+description = "多Agent协作的深度学习研发工作区"
+requires-python = ">=3.10"
+dependencies = []

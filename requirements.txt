@@ -1,0 +1,2 @@
+# 依赖清单：随首个实验在 Segment 环境中按需添加并锁定版本
+# 例： torch / torchvision / pyyaml / omegaconf / tensorboard / mlflow
